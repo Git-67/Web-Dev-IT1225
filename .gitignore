@@ -1,0 +1,2 @@
+# IMPORTANT SECURITY NOTE: For sensitive data, please put your file name here to include inside the gitignore BEFORE pushing
+.env
